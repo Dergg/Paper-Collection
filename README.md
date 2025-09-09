@@ -9,3 +9,6 @@ Using the AddNIST dataset to classify numbers with a deep learning classificatio
 
 ## Raisin_Classification
 One of my proudest papers; using an artificial intelligence algorithm to classify varieties of raisins, based on the previous work of Cinar and Tasdemir (2020).
+
+## SVP_with_Cpp
+Attempting to solve the Shortest Vector Problem, challenging myself to code in C++. A brief report covering my use of Schnorr-Euchner enumeration and LLL-reduction to approximate solutions to the shortest vector problem.
